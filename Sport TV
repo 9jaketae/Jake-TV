@@ -1,0 +1,46 @@
+{
+"name": "Jake Sport TV",
+author:"🙊ใช้ในครอบครัวเท่านั้น ห้ามแจกจ่ายเด็ดขาด 👍15/06/2024👍",
+"image": "https://img2.pic.in.th/pic/Jake-sport.jpeg",
+"url": "",
+"groups": [
+
+                {"name": "♥ Refresh ♥",
+                "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
+                "url": "",
+                 "import": false },
+
+      {"name": "กีฬา",		
+        "image": "https://c.tenor.com/TVl_MozR-HMAAAAj/mee-happy.gif",
+         "url" : "https://drive.google.com/uc?id=1E5WIwOZe_-1qs62TiMYePW8fmooTHUbw",
+         "import" : "true"},
+
+{"name" : "Sport Channel",
+"image" : "https://img2.imgbiz.com/imgbiz/FB.jpg",
+"url" : "https://pastejustit.com/raw/dgihmp5bdc",
+"import" : "true"},
+
+{"name" : "Sport Channel 2",
+"image" : "https://img2.imgbiz.com/imgbiz/futball.jpg",
+"url" : "https://pastejustit.com/raw/tgkuzy77xa",
+"import" : "true"},
+  
+{"name" : "Sport Channel 3",
+"image" : "https://img5.pic.in.th/file/secure-sv1/football.jpeg",
+"url" : "https://freenote.biz/raw/mcqxyhblti",
+"import" : "true"},
+  
+{"name": "DOOKEELA 5 in 1",
+"author": "Free free",
+"image": "https://dookeela.live/images/logo.png",
+"url": "https://freenote.biz/raw/nb21j9sxb0",
+"import": "true"},
+
+{
+"name"              :     "Ball2024", 
+"author"            :     "23 Aug 67",
+"image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=2000",
+"url"               :    "https://drive.google.com/uc?id=1-JNsX-QPrxb5VZLSTNIKGk_WHRX14rg6",
+"import": "true"},
+
+]}
