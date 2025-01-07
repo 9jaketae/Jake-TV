@@ -1,0 +1,82 @@
+{
+"name": "๋Du Nang",
+"author": "๋Jake 16/06/2024",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif ",
+"url": "",
+"groups": [
+
+{
+"name"         :     "Jake Series",
+"image"        :     "https://img2.imgbiz.com/imgbiz/33.gif",
+"url"  :  "",
+"import": false
+},
+{
+"name": "ซีรีย์พากษ์ไทย",
+"image": "https://img2.imgbiz.com/imgbiz/35.gif",
+"url": "https://drive.google.com/uc?id=1O657i9HYTE6y1Y8jgPayzOpK4Umr6883",
+"import": false
+},
+{
+"name": "ซีรีย์เกาหลี",
+"image": "https://img5.pic.in.th/file/secure-sv1/wei.gif",
+"url": "https://drive.google.com/uc?id=1wNbc6GawxeDCE6eKZWtsBh5T99l5q_nt",
+"import": false
+},
+{
+"name": "ซีรีย์จีน",
+"image": "https://img2.imgbiz.com/imgbiz/uq.jpg", 
+"url":"https://drive.google.com/uc?id=1Bc1PoTbbKXVnBy8ETRP3CG3B8_Y5qOwv",
+"import": false
+},
+{
+"name": "ซีรีย์ละครไทย",
+"image": "https://img2.imgbiz.com/imgbiz/47.jpg",
+"url": "https://drive.google.com/uc?id=1-mjtqCgYwSG7DrLvVza7ATSW6_Qz4UGz",
+"import": false
+},
+{
+"name": "ซีรีย์ฝรั่ง",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif", 
+"url":"https://drive.google.com/uc?id=1g_M0ouQ0FWgpBrBhy9wiGGVh5H9mXq41",
+"import": false
+},
+{
+"name": "ห้องวางหนัง",
+"image": "https://img2.imgbiz.com/imgbiz/34.gif",
+"url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/ห้องวางหนัง",
+"import": false
+},
+{
+"name"         :     "หนังใหม่2024",
+"image"        :     "https://img5.pic.in.th/file/secure-sv1/T4.gif",
+"url"          :     "https://raw.githubusercontent.com/9Pichapob/Du-Nang/main/du%20nang",
+"import": false
+},
+{
+"name": "Sequel Film ",
+"image": "https://img2.pic.in.th/pic/Movies.gif",
+"url": "https://dl.dropboxusercontent.com/scl/fi/10yfklytgzoz2fh4lj67x/Sequel-Movie.txt?rlkey=x6yumbmxesa63y9sjuuuxwebv&st=a8yafyyj&dl=0",
+"import": false
+},
+{
+"name": "MOVIES",
+"image": "https://img2.imgbiz.com/imgbiz/34.gif",
+"url": "https://drive.google.com/uc?id=19nWp28Gdi0DnCGAMrzzJZMKYOBTLLX9A",
+"import": false
+},
+{
+"name": "หนังไทย",
+"image": "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
+"url": "https://pastebin.com/raw/YPibGfNz",
+"import": false
+},
+{
+"name": "ช่องการ์ตูน",
+"image": "https://img5.pic.in.th/file/secure-sv1/T109f6553d535b7b51c.gif",
+"url": "https://pastebin.com/raw/0kn0804k",
+"import": false
+},
+
+]
+}
