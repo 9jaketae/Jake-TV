@@ -91,11 +91,25 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 },
 
 {
+  "name": "dooseries4k ซีรีย์พากย์ไทย",
+  "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+  "url": "https://drive.google.com/uc?id=15AWjrnPXKYOhRvr7I6aaPqW4eoyG5Mf2",
+  "import" : true"
+},
+
+{
   "name": "dooseries4k Viu",
   "author": "Update วันที่ 26 ธันวาคม 2024",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "url": "https://drive.google.com/uc?id=152Boe-XZU4fYhsZWjszU_bGTvVC6wUC1",
   "import" : true"
+},
+
+{
+"name": "Movie HD",
+"image": "https://www.i-pic.info/i/7aRT541802.jpg",
+"url": "https://pastebin.com/raw/5PSfXFxd",
+"import" : true"
 },
 
 {
