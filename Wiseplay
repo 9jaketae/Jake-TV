@@ -10,7 +10,6 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
                 "url": "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Wiseplay",
                  "import": false },
 
-
 {
 "name":"ลักดู",
 "image":"https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
@@ -40,12 +39,19 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 },
 
 {
+"name": "Series,Lakorn TV",
+"author": "BOMB645",
+"image": "https://drive.google.com/uc?id=1Q-7Vj1FnQzjWlO-Qjp-lrs2btFyYT36G",
+"url": "https://drive.google.com/uc?id=1t0z_EwmbEfRm0nCF4A4UhGEhJSakmxPV", 
+"import" : "false"
+},
+
+{
 "name" : "GUFLIX",
 "image" : "http://guflix.streaming-fast.com/logo/guflix.gif",
 "url" : "http://guflix.streaming-fast.com/wiseplay/guflix.html",
 "import" : "false"
 },
-
 
 {
 "name" :   "For ฟรี อย่านำไปจำหน่าย นะจ๊ะ นะจ๊ะ",
