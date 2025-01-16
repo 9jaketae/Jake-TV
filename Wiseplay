@@ -11,6 +11,14 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
                  "import": false },
 
 {
+"name":"ดูผ่านเว็บ",
+"author":"ดูหนังฟรี",
+"image": "https://i.gifer.com/origin/93/935d72c7bc35828ea93b5898691f28fd_w200.gif",
+"url":"https://pastebin.com/raw/V4fu4P0J/",
+"import" : true"
+},
+
+{
 "name":"ลักดู",
 "image":"https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
 "url":"https://dl.dropboxusercontent.com/scl/fi/sxc3i9gn9z6yidqhojqub/luxDu_FreeTV9_2_67.txt?rlkey=m1lbtywy5ehsj82jqcjuu4gap&dl=0",
