@@ -12,15 +12,8 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 
 
 {
-"name":"ลักดู",
-"image":"https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/sxc3i9gn9z6yidqhojqub/luxDu_FreeTV9_2_67.txt?rlkey=m1lbtywy5ehsj82jqcjuu4gap&dl=0",
-"import" : "false"
-},
-
-{
 "name": "1-MyPlaylist",
-"image": "https://cdn-icons-png.flaticon.com/512/907/907786.png",
+"image": "https://img5.pic.in.th/file/secure-sv1/T3.gif",
 "url": "https://freenote.biz/raw/AmeGRwGiwS",
 "import" : true"
 },
@@ -33,13 +26,6 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 },
 
 {
-"name" : "Doo Dee dee",
-"image" : "https://img5.pic.in.th/file/secure-sv1/T3.gif",
-"url" : "https://freenote.biz/raw/Kk7Jv5Dnz6",
-"import" : "false"
-},
-
-{
 "name": "Series,Lakorn TV",
 "author": "BOMB645",
 "image": "https://drive.google.com/uc?id=1Q-7Vj1FnQzjWlO-Qjp-lrs2btFyYT36G",
@@ -48,32 +34,9 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 },
 
 {
-"name" : "GUFLIX",
-"image" : "http://guflix.streaming-fast.com/logo/guflix.gif",
-"url" : "http://guflix.streaming-fast.com/wiseplay/guflix.html",
-"import" : "false"
-},
-
-{
-"name" :   "For ฟรี อย่านำไปจำหน่าย นะจ๊ะ นะจ๊ะ",
-"author": "ผู้เฒ่าพเนจร",
-"image" :  "https://img2.pic.in.th/pic/L4.jpg",
-"url" :  "https://dl.dropboxusercontent.com/scl/fi/ay16kr75ebkejx7916enh/.txt?rlkey=nqgu949jfckeioq2f9lfzpmaw&st=th5dqye6&dl=0",
-"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-"import" : "false"
-},
-
-{
 "name" : "SUN ดูฟรี",
 "image" : "https://img5.pic.in.th/file/secure-sv1/T5.gif",
 "url" : "https://bit.ly/sundoofree",
-"import" : "false"
-},
-
-{
-"name" : "ก๊อบมั๊ย SERIES",
-"image" : "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
-"url" : "https://bit.ly/44L2zLf",
 "import" : "false"
 },
 
@@ -87,7 +50,7 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 {
 "name" : "?Free[ฟรี]?",
 "image" : "https://img5.pic.in.th/file/secure-sv1/T6.gif",
-"url" : "https://freenote.biz/WTu7aye1xn",
+"url" : "https://freenote.biz/raw/WTu7aye1xn",
 "import" : "false"
 },
 
@@ -150,13 +113,6 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 
 {
 "name" : "Wiseplay2",
-"image" : "https://img5.pic.in.th/file/secure-sv1/T5.gif",
-"url" : "https://freenote.biz/raw/bt6sqyskbm",
-"import" : "false"
-},
-  
-{
-"name" : "Wiseplay3",
 "image" : "https://img5.pic.in.th/file/secure-sv1/T6.gif",
 "url" : "https://freenote.biz/raw/rmkHLJ8NlT",
 "import" : "false"
