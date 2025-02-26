@@ -30,6 +30,12 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "url" : "https://freenote.biz/raw/mcqxyhblti",
 "import" : "true"},
   
+{
+"name" : "BONDtv",
+"image" : "https://docdog.top/Logotv/countries//sportsnetone.png",
+"url" : "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
+"import": "true"},
+
 {"name": "DOOKEELA 5 in 1",
 "author": "Free free",
 "image": "https://dookeela.live/images/logo.png",
