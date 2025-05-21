@@ -62,13 +62,13 @@
 {
 "name": "MOVIES ดูหนัง",
 "image": "https://img2.imgbiz.com/imgbiz/34.gif",
-"url": "https://drive.google.com/uc?id=19nWp28Gdi0DnCGAMrzzJZMKYOBTLLX9A",
+"url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/MOVIES%20ดูหนัง",
 "import": false
 },
 {
 "name": "หนังไทย",
 "image": "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
-"url": "https://freenote.biz/raw/joar0su3lg",
+"url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/Thai%20Movie",
 "import": false
 },
 {
