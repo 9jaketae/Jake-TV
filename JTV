@@ -17,12 +17,12 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 
 {"name" : "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
     "image" : "https://img5.pic.in.th/file/secure-sv1/L158b02d40f7039f1a.jpg",
-    "url" : "https://drive.google.com/uc?id=1jS1Ngf9vTlNGhKfC8N_Fnyv1xJrAXNld",
+    "url" : "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/ดูฟรี",
   "import" : "true"},
 {"name":"รวมลิ้งค์",
 "author":"เพื่อความบันเทิงส่วนตัว",
 "image":"https://i.postimg.cc/MZ1gT0Jj/s.jpg",
-"url": "https://drive.google.com/uc?id=1M013UX48d5-FlVcbTlh8QGMpt7h34IWv",
+"url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/รวมลิ้งค์",
 "import" : "false"},
 {"name" : "Jake TV 1",
 "author" : "Jake 14/01/2024",
@@ -46,13 +46,4 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "image" : "https://img2.pic.in.th/pic/Jake-sport.jpeg",
 "url" : "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Sport%20TV",
 "import" : "true"},
-{"name" :   "Wiseplay URL",
-"image" :  "https://img5.pic.in.th/file/secure-sv1/T4.gif",
-"url" :  "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Wiseplay",
-"import" : "true"},
-{"name" : "Samsung TV",
-"image" : "https://img2.pic.in.th/pic/tiny-toons-looniversity-babs-bunny.gif",
-"url" : "https://freenote.biz/raw/duvwrzmimt",
-"import" : "true"},
-
 ]}
