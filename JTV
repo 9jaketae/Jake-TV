@@ -31,6 +31,12 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "url"   :   "https://dl.dropboxusercontent.com/scl/fi/wi4ay7jympov14gvphuk0/LIVE-TV.txt?rlkey=2t9y75mrkodur8hgweh7nwfzd&st=68cq10oq&dl=0",
 "import" : "true"},
 
+{"name" : "Jake TV 1",
+"author" : "Jake 14/01/2024",
+"image" : "https://img5.pic.in.th/file/secure-sv1/11-JakeTV-1.jpeg",
+"url" : "https://dl.dropboxusercontent.com/scl/fi/hrg0mwgtvlt1won4bw05h/JakeTV1.txt?rlkey=bbfta1ngjewl2yoggu9brlfbj&st=5vng8oi2&dl=0",
+"import" : "true"},
+
 {"name": "TV Online",
 "image":"https://img5.pic.in.th/file/secure-sv1/T5.gif",
 "url": "https://raw.githubusercontent.com/9Pichapob/Du-Nang/refs/heads/main/TV%20Online",
@@ -45,11 +51,5 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "author" : "update 16/06/2024",
 "image" : "https://img2.pic.in.th/pic/Jake-sport.jpeg",
 "url" : "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Sport%20TV",
-"import" : "true"},
-
-{"name" : "Jake TV 1",
-"author" : "Jake 14/01/2024",
-"image" : "https://img5.pic.in.th/file/secure-sv1/11-JakeTV-1.jpeg",
-"url" : "https://dl.dropboxusercontent.com/scl/fi/hrg0mwgtvlt1won4bw05h/JakeTV1.txt?rlkey=bbfta1ngjewl2yoggu9brlfbj&st=5vng8oi2&dl=0",
 "import" : "true"},
 ]}
