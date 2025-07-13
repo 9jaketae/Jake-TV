@@ -15,25 +15,12 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
          "url" : "https://drive.google.com/uc?id=1E5WIwOZe_-1qs62TiMYePW8fmooTHUbw",
          "import" : "true"},
 
-      {"name": "FIFA Club World Cup 2025",		
-        "image": "https://img2.imgbiz.com/imgbiz/anigiffifab7839c4b81a196fd.gif",
-         "url" : "https://pastesio.com/raw/kurac-covjek-hd-66",
-         "import" : "true"},
-
-{"name" : "Sport Channel",
-"image" : "https://img2.imgbiz.com/imgbiz/FB.jpg",
-"url" : "https://pastes.io/raw/dgihmp5bdc",
-"import" : "true"},
-
-{"name" : "Sport Channel 2",
-"image" : "https://img2.imgbiz.com/imgbiz/futball.jpg",
-"url" : "https://pastes.io/raw/tgkuzy77xa",
-"import" : "true"},
-  
-{"name" : "Sport Channel 3",
-"image" : "https://img5.pic.in.th/file/secure-sv1/football.jpeg",
-"url" : "https://pastes.io/raw/kurac-covjek-hd-1",
-"import" : "true"},
+{
+		"name": "Pre-Season",
+		"author": "Pre-Season",
+		"image":"https://s.imgz.io/2025/07/13/anigifpread0d1aa31ccd37b9.gif",
+		"url": "https://dl.dropboxusercontent.com/scl/fi/7lhiqjp8vb257gjq5vveo/Pre-Season.txt?rlkey=mdxw1khoi2t70ypqyvjrkuube&st=dh7jkys8&dl=0",
+    "import" : "true"},
 
 {
 "name": "Ð∞𝐓𝐔𝐁𝐄",
@@ -52,5 +39,21 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=2000",
 "url"  :    "https://drive.google.com/uc?id=1-JNsX-QPrxb5VZLSTNIKGk_WHRX14rg6",
 "import": "false"
+},
+
+{"name" : "Sport Channel",
+"image" : "https://img2.imgbiz.com/imgbiz/FB.jpg",
+"url" : "https://pastes.io/raw/dgihmp5bdc",
+"import" : "true"},
+
+{"name" : "Sport Channel 2",
+"image" : "https://img2.imgbiz.com/imgbiz/futball.jpg",
+"url" : "https://pastes.io/raw/tgkuzy77xa",
+"import" : "true"},
+  
+{"name" : "Sport Channel 3",
+"image" : "https://img5.pic.in.th/file/secure-sv1/football.jpeg",
+"url" : "https://pastes.io/raw/kurac-covjek-hd-1",
+"import" : "true"
 },
 ]}
