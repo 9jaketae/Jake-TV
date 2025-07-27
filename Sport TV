@@ -43,17 +43,7 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 
 {"name" : "Sport Channel",
 "image" : "https://img2.imgbiz.com/imgbiz/FB.jpg",
-"url" : "https://pastes.io/raw/sport-7433",
-"import" : "true"},
-
-{"name" : "Sport Channel 2",
-"image" : "https://img2.imgbiz.com/imgbiz/futball.jpg",
-"url" : "https://pastes.io/raw/tgkuzy77xa",
-"import" : "true"},
-  
-{"name" : "Sport Channel 3",
-"image" : "https://img5.pic.in.th/file/secure-sv1/football.jpeg",
-"url" : "https://pastes.io/raw/kurac-covjek-hd-1",
+"url" : "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/Sport",
 "import" : "true"
 },
 ]}
