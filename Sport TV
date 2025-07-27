@@ -46,4 +46,16 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "url" : "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/Sport",
 "import" : "true"
 },
+
+{"name" : "บันเทิง",
+"image" : "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
+"url" : "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/บันเทิง",
+"import" : "true"
+},
+
+{"name" : "documentary",
+"image" : "https://img5.pic.in.th/file/secure-sv1/Jake-Documentary.jpeg",
+"url" : "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/documentary",
+"import" : "true"
+},
 ]}
