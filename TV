@@ -2,12 +2,12 @@
 "name": "Jake TV",
 author:"🙊ใช้ในครอบครัวเท่านั้น ห้ามแจกจ่ายเด็ดขาด 👍25/09/2024👍",
 "image": " https://img2.pic.in.th/pic/Jake-Logo.png.jpg",
-"url": "",
+"url": "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/TV",
 "groups": [
 
                 {"name": "♥ Refresh ♥",
                 "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
-                "url": "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/JTV",
+                "url": "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/TV",
                  "import": false },
 
 {"name"  :  "Du Nang",
@@ -43,7 +43,6 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "import": "true"},
 
 {  "name": "ช่องทีวีออนไลน์",
-   "info": "HD th IMDb n/a",
    "image": "https://img2.pic.in.th/pic/IMG_20250719_144111.jpg",
    "url": "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/TV%20channel",
    "import": "true"},
