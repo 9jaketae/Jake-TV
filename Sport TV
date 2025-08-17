@@ -41,10 +41,18 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "url": "https://freenote.biz/raw/5mrrcnpdln",
 "import": true},
 
+{
+"name": "Wiseplay Online หนัง+กิฬา",
+"author": "กลุ่มปันใจ ปันสุข ปันสนุก ทุกเรื่องกับดูWiseplay Online สบายใจ สบายตา2",
+"image": "https://img5.pic.in.th/file/secure-sv1/44093910.jpg",
+"url"  :    "https://freenote.biz/raw/wym3efbiri",
+"import" : "true"
+},
+
 {"name": "🐲Ball2024", 
 "image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=2000",
 "url"  :    "https://drive.google.com/uc?id=1-JNsX-QPrxb5VZLSTNIKGk_WHRX14rg6",
-"import": "false"
+"import" : "true"
 },
 
 {"name" : "Sport Channel",
