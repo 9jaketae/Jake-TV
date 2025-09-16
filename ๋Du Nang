@@ -12,12 +12,6 @@
 "import": false
 },
 {
-"name": "ซีรีย์พากษ์ไทย",
-"image": "https://img2.imgbiz.com/imgbiz/35.gif",
-"url": "https://drive.google.com/uc?id=1O657i9HYTE6y1Y8jgPayzOpK4Umr6883",
-"import": false
-},
-{
 "name": "ซีรีย์เกาหลี",
 "image": "https://img5.pic.in.th/file/secure-sv1/wei.gif",
 "url": "https://drive.google.com/uc?id=1wNbc6GawxeDCE6eKZWtsBh5T99l5q_nt",
@@ -39,6 +33,12 @@
 "name": "ซีรีย์ฝรั่ง",
 "image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif", 
 "url":"https://drive.google.com/uc?id=1g_M0ouQ0FWgpBrBhy9wiGGVh5H9mXq41",
+"import": false
+},
+{
+"name": "ซีรีย์ขอมา",
+"image": "https://img2.imgbiz.com/imgbiz/35.gif",
+"url": "https://drive.google.com/uc?id=1O657i9HYTE6y1Y8jgPayzOpK4Umr6883",
 "import": false
 },
 {
