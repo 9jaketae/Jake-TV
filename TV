@@ -15,6 +15,16 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
 "url"  :  "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/%E0%B9%8BDu%20Nang",
 "import" : "true"},
 
+{"name": "TV Online",
+"image":"https://img5.pic.in.th/file/secure-sv1/T5.gif",
+"url": "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/TV%20channel",
+"import": "true"},
+
+{"name" : "📺ดูทีวี📺",
+"image" : "https://img2.pic.in.th/pic/T7.gif",
+"url" : "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/DU%20TV",
+"import" : "true"},
+
 {"name" : "Jake Sport TV",
 "author" : "update 09/08/2025",
 "image" : "https://img2.pic.in.th/pic/Jake-sport.jpeg",
@@ -26,25 +36,9 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
     "url" : "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/ดูฟรี",
   "import" : "true"},
 
-{"name":"รวมลิ้งค์",
-"author":"เพื่อความบันเทิงส่วนตัว",
-"image":"https://i.postimg.cc/MZ1gT0Jj/s.jpg",
-"url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/รวมลิ้งค์",
-"import" : "false"},
-
 {"name" : "Jake TV 1",
 "author" : "Jake 14/01/2024",
 "image" : "https://img5.pic.in.th/file/secure-sv1/11-JakeTV-1.jpeg",
 "url" : "https://dl.dropboxusercontent.com/scl/fi/hrg0mwgtvlt1won4bw05h/JakeTV1.txt?rlkey=bbfta1ngjewl2yoggu9brlfbj&st=5vng8oi2&dl=0",
-"import" : "true"},
-
-{"name": "TV Online",
-"image":"https://img5.pic.in.th/file/secure-sv1/T5.gif",
-"url": "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/TV%20channel",
-"import": "true"},
-
-{"name" : "📺ดูทีวี📺",
-"image" : "https://img2.pic.in.th/pic/T7.gif",
-"url" : "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/DU%20TV",
 "import" : "true"},
 ]}
