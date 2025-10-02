@@ -10,6 +10,12 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
                 "url": "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Sport%20TV",
                  "import": false },
 
+{"name" : "Sport Word 2025",
+"info": " ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัยนะคับ",
+"image": "https://img2.imgbiz.com/imgbiz/futball.jpg",
+"url": "https://freenote.biz/raw/7hyaqxauo6",
+"import": true},
+
       {"name": "กีฬา",		
         "image": "https://c.tenor.com/TVl_MozR-HMAAAAj/mee-happy.gif",
          "url" : "https://shorturl.asia/16dcB",
@@ -30,22 +36,9 @@ author:"🙊ใช้ในครอบครัวเท่านั้น ห�
         "import": "true"
 },
 
-{"name" : "กีฬา",
+{"name" : "กีฬา2",
 "image" : "https://i.postimg.cc/d0dtWzdf/2.png",
 "url" : "https://pastebin.com/raw/9jEi02e6",
-"import" : "true"
-},
-
-{"name" : "Sport Word 2025",
-"info": " ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัยนะคับ",
-"image": "https://img2.imgbiz.com/imgbiz/futball.jpg",
-"url": "https://freenote.biz/raw/7hyaqxauo6",
-"import": true},
-
-{
-"name": "หนัง+กิฬา",
-"image": "https://img5.pic.in.th/file/secure-sv1/football.jpeg",
-"url"  :    "https://pastebin.com/raw/cDq8etFN",
 "import" : "true"
 },
 
